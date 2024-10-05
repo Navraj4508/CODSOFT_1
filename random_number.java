@@ -33,7 +33,7 @@ public class random_number {
 				System.out.println("Try Again!");
 			}
 		}
-		*/
+		
 		
 		if (attempts == maxattempts) {
             System.out.println("Sorry, you've reached the maximum number of attempts. The correct number was " + number_guess + ".");
