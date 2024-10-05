@@ -40,7 +40,7 @@ public class random_number {
         }
 	*/
 
-		System.out.println("Hello");
+		System.out.println("Hello";
 		
 		
 
